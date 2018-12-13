@@ -5,4 +5,5 @@ FIFO, SRTN e SJF para o job relacionado a impressão de números randomicamente 
 Para executar em ambiente linux, basta:
 
 gcc escalonamento.c -o escalonamento
+
 ./escalonamento
